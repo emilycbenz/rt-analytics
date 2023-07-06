@@ -1,0 +1,11 @@
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas
+papermill
+pip
+python>=3.1
+streamlit
+seaborn
+statsmodels
