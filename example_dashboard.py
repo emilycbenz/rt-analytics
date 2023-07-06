@@ -1,8 +1,7 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib as plt
 from datetime import date, timedelta, datetime
-from helper_function import replace_number_with_name
 import streamlit as st
 
 users_df = pd.read_pickle('Cleaned Data/export_All-Users.pkl')
