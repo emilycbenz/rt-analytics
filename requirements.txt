@@ -3,9 +3,6 @@ matplotlib
 notebook
 numpy
 pandas
-papermill
-pip
-python
 streamlit
 seaborn
 statsmodels
