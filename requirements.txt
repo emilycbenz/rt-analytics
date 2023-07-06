@@ -5,7 +5,7 @@ numpy
 pandas
 papermill
 pip
-python>=3.1
+python
 streamlit
 seaborn
 statsmodels
