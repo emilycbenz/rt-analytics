@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from datetime import date, timedelta, datetime
 import streamlit as st
 
 users_df = pd.read_pickle('Cleaned Data/export_All-Users.pkl')
