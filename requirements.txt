@@ -6,3 +6,4 @@ pandas
 streamlit
 seaborn
 statsmodels
+s3fs
